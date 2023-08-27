@@ -1,7 +1,7 @@
 //find
 //struct ZCharacterStatus
 //{
-//add
+//add inside
 MMatchWeaponType LastWeapon;
 
 //find
