@@ -1,0 +1,25 @@
+<FRAME item="KillNotificationsFrame">
+		<FRAMELOOK>NullFrameLook</FRAMELOOK>
+		<BOUNDS>
+			<X>0</X>
+			<Y>40</Y>
+			<W>30</W>
+			<H>150</H>
+		</BOUNDS>
+		<TEXT></TEXT>
+		<VISIBLE>false</VISIBLE>
+	</FRAME>
+	<TEXTAREA item="KillNotifications" parent="KillNotificationsFrame">
+		<FONT>FONTa7</FONT>
+		<BOUNDS>
+			<X>0</X>
+			<Y>25</Y>
+			<W>325</W>
+			<H>150</H>
+		</BOUNDS>
+		<MOVABLE>false</MOVABLE>
+		<EDITABLE>false</EDITABLE>
+		<MAXLENGTH>4096</MAXLENGTH>
+		<INDENTATION>30</INDENTATION>
+		<SCROLLBAR>false</SCROLLBAR>
+	</TEXTAREA>
